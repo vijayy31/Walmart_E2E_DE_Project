@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  -  name: bronze
+     catalog: walmart_data
+     schema: bronze
+     tables:
+       -  name: bronze_orders
+       -  name: bronze_products
+       -  name: bronze_order_items
+       -  name: bronze_customers
+       -  name: bronze_stores
+
+
+
