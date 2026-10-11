@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 walmart_dbt/profiles.yml
+.vscode
